@@ -9,14 +9,14 @@ class FormBuilder {
 	use Macroable;
 
 	/**
-	 * The HTML builder instance.
+	 * The HTML builder instance
 	 *
 	 * @var \Illuminate\Html\HtmlBuilder
 	 */
 	protected $html;
 
 	/**
-	 * The URL generator instance.
+	 * The URL generator instance
 	 *
 	 * @var \Illuminate\Routing\UrlGenerator  $url
 	 */
